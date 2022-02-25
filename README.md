@@ -1,6 +1,6 @@
 ## Olá, Eu sou João Paulo e meu apelido é Ninho.
 
-- 😃 Eu estou trabalhando com Front-End;
+- 😃 Eu estou criando projetos de Front-End;
 - 😅 Eu estou estudando React;
 - 😇 Eu sou um Jovem Programador Católico.
 
