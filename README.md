@@ -1,7 +1,7 @@
-## Olá, Eu sou João Paulo e meu apelido é Ninho.
+## Olá, Eu sou João Paulo Sena Padilha.
 
-- 😃 Eu estou criando projetos de Front-End;
-- 😅 Eu estou estudando React;
+- 😃 Eu estou estudando Front-End;
+- 😅 Eu estou criando projetos praticos de Front-End;
 - 😇 Eu sou um Jovem Programador Católico.
 
 <div align="center">
